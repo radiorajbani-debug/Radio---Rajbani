@@ -1,4 +1,4 @@
-# 🎧 Online Radio RajBani
+# 🎧  RadioRajBani
 
 **The King's Voice On Air — Now Git-powered.**  
 A cinematic, bilingual, spiritually resonant Progressive Web App (PWA) for RajBani Radio listeners and admins.
